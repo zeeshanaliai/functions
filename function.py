@@ -45,6 +45,8 @@ def checkEligibility(birthYear):
         print("DIsAllow")
 
 
+
+
 checkEligibility(2010)
 checkEligibility(2006)
 checkEligibility(1994)
